@@ -1,24 +1,34 @@
 # Welcome to Mohamed Raseen's GitHub!
 
-Hello there! 👋 I'm Mohamed Raseen, a passionate front-end developer with a strong skill set in HTML, CSS, JavaScript, React.js, and JSP. I'm also proficient in Japanese, holding a JLPT N4 certification.
+# Hi there! I'm Mohamed Raseen, Full Stack Developer
 
-## About Me
+Welcome to my GitHub profile! I'm a full-stack developer with expertise in Java and PHP for backend development, utilizing frameworks like Spring Boot, Struts, and Laravel. On the front end, I specialize in React.js and JSP to create dynamic and responsive user interfaces.
 
-- 💻 Front-end Developer
-- 🌐 HTML, CSS, JavaScript, React.js, JSP
-- 🇯🇵 JLPT N4 Certified
+## Tech Stack
+
+### Backend Development
+
+- **Java:** Proficient in building scalable and efficient backend applications.
+- **PHP:** Experienced in creating robust server-side logic for web applications.
+- **Spring Boot:** Utilizing the power of the Spring framework for Java-based microservices.
+- **Struts:** Building web applications with the Struts framework for Java.
+
+### Frontend Development
+
+- **React.js:** Crafting interactive and modern user interfaces for seamless user experiences.
+- **JSP (JavaServer Pages):** Developing dynamic web pages on the server side for Java-based applications.
 
 ## Projects
 
 ### 1. WaterLinks
 
-WaterLinks is a project aimed at simplifying water bill management. It provides a user-friendly interface to track and manage water bills efficiently.
+WaterLinks - A water bill management system built with Spring Boot on the backend and React.js on the frontend. It provides a user-friendly interface to manage and track water bills efficiently.
 
 ### 2. SunRex
 
-SunRex is a shipment billing system designed to streamline the billing process for shipments. It offers a comprehensive solution for managing and tracking billing information related to shipments.
+SunRex - A shipment billing system developed using Laravel for the backend and React.js for the frontend. It streamlines the billing process for shipments with a comprehensive solution.
 
-Feel free to explore the repositories for more details on each project!
+Feel free to explore the repositories for a deeper look into each project!
 
 ## Connect with Me
 

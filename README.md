@@ -42,8 +42,6 @@ SunRex - 次の技術スタックを使用した出荷請求システム:
 
 ## お気軽にご連絡ください
 
-一緒に素晴らしいプロジェクトを作成できることを楽しみにしています！
-
 - [LinkedIn](https://www.linkedin.com/in/mohamed-raseen-797619159?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 素晴らしいプロジェクトを一緒に作成できることを楽しみにしています！

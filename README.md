@@ -1,5 +1,3 @@
-# Welcome to Mohamed Raseen's GitHub!
-
 # Hi there! I'm Mohamed Raseen, Full Stack Developer
 
 Welcome to my GitHub profile! I'm a full-stack developer with expertise in Java and PHP for backend development, utilizing frameworks like Spring Boot, Struts, and Laravel. On the front end, I specialize in React.js and JSP to create dynamic and responsive user interfaces.

@@ -1,53 +1,35 @@
-# Hi there! I'm Mohamed Raseen, Full Stack Developer
+こんにちは！私はモハメド・ラシーン、フルスタック開発者です
+GitHubプロフィールへようこそ！私はJavaとPHPを使ったバックエンド開発のエキスパートで、Spring BootやStrutsなどのフレームワークを活用しています。フロントエンドでは、React.jsとJSPを専門にして、動的でレスポンシブなユーザーインターフェースを作成しています。
 
-Welcome to my GitHub profile! I'm a full-stack developer with expertise in Java and PHP for backend development, utilizing frameworks like Spring Boot, Struts. On the front end, I specialize in React.js and JSP to create dynamic and responsive user interfaces.
+技術スタック
+バックエンド開発
+Java: スケーラブルで効率的なバックエンドアプリケーションの構築に優れています。
+Spring Boot: JavaベースのマイクロサービスのためにSpringフレームワークの力を活用しています。
+Struts: Java向けのStrutsフレームワークを使用してWebアプリケーションを構築しています。
+フロントエンド開発
+React.js: インタラクティブでモダンなユーザーインターフェースを構築し、ユーザーエクスペリエンスをシームレスにします。
+JSP (JavaServer Pages): Javaベースのアプリケーション向けにサーバーサイドで動的なWebページを開発しています。
+言語スキル
+日本語: 読み書きと会話のスキルがあります。
+英語: 書き言葉と会話の両方で流暢です。
+プロジェクト
+1. WaterLinks
+WaterLinks - 次の技術スタックを使用した水道料金管理システム:
 
-## Tech Stack
+バックエンド: Spring Bootを使用し、アプリケーションのために堅牢でスケーラブルなバックエンドソリューションを提供しています。
+フロントエンド: React.jsを利用して、ユーザーにとってシームレスなエクスペリエンスを確保するためのインタラクティブでモダンなユーザーインターフェースを構築しています。
+このプロジェクトは、水道料金を効率的に管理し追跡するためのユーザーフレンドリーなインターフェースを提供します。
 
-### Backend Development
+2. SunRex
+SunRex - 次の技術スタックを使用した出荷請求システム:
 
-- **Java:** Proficient in building scalable and efficient backend applications.
-- **Spring Boot:** Utilizing the power of the Spring framework for Java-based microservices.
-- **Struts:** Building web applications with the Struts framework for Java.
+バックエンド: Spring Bootを使用し、アプリケーションのために堅牢でスケーラブルなバックエンドソリューションを提供しています。
+フロントエンド: クライアントサイドで動的なWebページを作成するためにJSP (JavaServer Pages) を使用しています。
+このプロジェクトは、出荷に関する請求プロセスを包括的なソリューションで合理化することを目指しています。
 
-### Frontend Development
-
-- **React.js:** Crafting interactive and modern user interfaces for seamless user experiences.
-- **JSP (JavaServer Pages):** Developing dynamic web pages on the server side for Java-based applications.
-  
-## Language Skills
-
-- **Japanese:** Proficient in writing, reading, and speaking.
-- **English:** Fluent in both written and spoken communication.
-
-## Projects
-
-## Projects
-
-### 1. WaterLinks
-
-WaterLinks - A water bill management system with the following tech stack:
-
-- **Backend:** Developed using Spring Boot, providing a robust and scalable backend solution for the application.
-
-- **Frontend:** Utilizes React.js to create interactive and modern user interfaces, ensuring a seamless experience for users.
-
-This project offers a user-friendly interface to manage and track water bills efficiently.
-
-### 2. SunRex
-
-SunRex - A shipment billing system with the following tech stack:
-
-- **Backend:** Developed using Spring Boot, providing a robust and scalable backend solution for the application.
-
-- **Frontend:** Utilizes JSP (JavaServer Pages) for dynamic web pages on the client side, creating a seamless user experience.
-
-This project aims to streamline the billing process for shipments with a comprehensive solution.
-
-## Connect with Me
-
-Let's connect and collaborate! Feel free to reach out:
+お気軽にご連絡ください
+一緒に素晴らしいプロジェクトを作成できることを楽しみにしています！
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-raseen-797619159?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-Looking forward to creating awesome projects together!
+  
+素晴らしいプロジェクトを一緒に作成できることを楽しみにしています！

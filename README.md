@@ -15,6 +15,11 @@ Welcome to my GitHub profile! I'm a full-stack developer with expertise in Java 
 
 - **React.js:** Crafting interactive and modern user interfaces for seamless user experiences.
 - **JSP (JavaServer Pages):** Developing dynamic web pages on the server side for Java-based applications.
+  
+## Language Skills
+
+- **Japanese:** Proficient in writing, reading, and speaking.
+- **English:** Fluent in both written and spoken communication.
 
 ## Projects
 

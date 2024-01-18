@@ -24,6 +24,6 @@ Feel free to explore the repositories for more details on each project!
 
 Let's connect and collaborate! Feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-raseen)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-raseen-797619159)
 
 Looking forward to creating awesome projects together!
